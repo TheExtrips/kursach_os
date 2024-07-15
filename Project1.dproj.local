@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.008,F:\DELPHI PROJECTS\test\DeleteFilesThread.pas=F:\DELPHI PROJECTS\test\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.614,F:\DELPHI PROJECTS\test\Unit5.pas=F:\DELPHI PROJECTS\test\DeleteFilesThread.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,=F:\DELPHI PROJECTS\test\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,F:\DELPHI PROJECTS\test\Unit1.dfm=F:\DELPHI PROJECTS\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,F:\DELPHI PROJECTS\test\Unit2.dfm=F:\DELPHI PROJECTS\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.183,F:\DELPHI PROJECTS\test\DeleteFilesThread.pas=F:\DELPHI PROJECTS\test\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.985,=F:\DELPHI PROJECTS\test\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.795,=F:\DELPHI PROJECTS\test\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.151,F:\DELPHI PROJECTS\test\Project1.dproj=F:\DELPHI PROJECTS\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.119,=F:\DELPHI PROJECTS\test\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,F:\DELPHI PROJECTS\test\DeleteFileThread.pas=F:\DELPHI PROJECTS\test\DeleteFilesThread.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,=F:\DELPHI PROJECTS\test\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.079,F:\DELPHI PROJECTS\test\Clusters.pas=F:\DELPHI PROJECTS\test\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,=F:\DELPHI PROJECTS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.550,=F:\DELPHI PROJECTS\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,F:\DELPHI PROJECTS\test\Unit1.pas=F:\DELPHI PROJECTS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,F:\DELPHI PROJECTS\test\Unit2.pas=F:\DELPHI PROJECTS\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.095,=F:\DELPHI PROJECTS\test\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.112,=F:\DELPHI PROJECTS\test\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.120,F:\DELPHI PROJECTS\test\MoveFileThread.pas=F:\DELPHI PROJECTS\test\MoveFilesThread.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,F:\DELPHI PROJECTS\test\MoveFilesThread.pas=F:\DELPHI PROJECTS\test\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,F:\DELPHI PROJECTS\test\Unit6.pas=F:\DELPHI PROJECTS\test\createAnonPipe.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.675,=F:\DELPHI PROJECTS\test\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,F:\DELPHI PROJECTS\test\Unit6.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
